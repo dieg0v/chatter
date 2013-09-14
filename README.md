@@ -4,13 +4,13 @@ chatter
 Another node.js/socket.io chat example
 
 Requirements
-========================
+--------------
 
-node v0.10.18
-npm 1.3.8
+- node v0.10.18
+- npm 1.3.8
 
 Installation:
-========================
+--------------
 
 Clone github repository
 ```bash
