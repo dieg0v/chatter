@@ -7,7 +7,7 @@ exports.index = function(req, res){
 	var view = {
 		title: "Chatter",
 		version: function () {
-			return '0.1';
+			return '0.1.0';
 		},
 		des:"yes, another node.js/socket.io chat example"
 	};
