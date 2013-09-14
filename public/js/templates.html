@@ -1,0 +1,11 @@
+<script type="application/mustache" id="users-list">
+	{{#users}}
+		<li><span class="glyphicon glyphicon-user"></span> {{username}} </li>
+	{{/users}}
+</script>
+
+<script type="application/mustache" id="messages-list">
+	{{#messages}}
+		<p class="msn {{classname}}"><b>{{username}}</b> - {{message}}</p>
+	{{/messages}}
+</script>

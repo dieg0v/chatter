@@ -1,0 +1,37 @@
+body {
+  padding-top: 50px;
+}
+.chat{
+  padding-top: 20px;
+}
+.noshow{
+	display:none;
+}
+.content{
+	overflow: auto;
+	height: 1px;
+	padding-right: 5px;
+	padding-left: 15px;
+}
+.users{
+	overflow: auto;
+	height: 1px;
+}
+.msn{
+	background-color: #f5f5f5;
+	margin-bottom: 1px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 5px;
+}
+.message{
+	background-color: #F7F7F9;
+}
+.connected{
+	background-color: #DFF0D8;
+}
+.offline{
+	background-color: #F2DEDE;
+}
+textarea {
+    resize: none;
+}

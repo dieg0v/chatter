@@ -1,0 +1,16 @@
+{
+  "name": "Chatter",
+  "version": "0.1",
+  "description": "Another nodejs/socket.io chat example",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.0",
+    "socket.io": "latest",
+    "consolidate": "0.9.1",
+    "mustache": "latest"
+  },
+   "author": "Diego Vilariño"
+}
