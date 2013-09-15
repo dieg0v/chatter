@@ -29,3 +29,11 @@ Open your browser
 http://127.0.0.1:3000/
 ```
 
+Feel free to ask any questions
+
+License
+--------------
+Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+
+Copyright (c) Diego Vilariño: http://www.ensegundoplano.com/ - http://www.sond3.com
+
