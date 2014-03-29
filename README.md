@@ -14,7 +14,7 @@ Installation
 
 Clone github repository
 ```bash
-git clone https://github.com/ensegundoplano/chatter.git
+git clone https://github.com/dieg0v/chatter.git
 ```
 Install dependencies
 ```bash
@@ -35,5 +35,5 @@ License
 --------------
 Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
 
-Copyright (c) Diego Vilariño: http://www.ensegundoplano.com/ - http://www.sond3.com
+Copyright (c) Diego Vilariño: http://www.dieg0v.com/ - http://www.sond3.com
 
